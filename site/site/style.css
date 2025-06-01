@@ -1,0 +1,57 @@
+main>section {
+    width: 50%;
+    float: left;
+}
+
+main>section>div {
+    width: 50%;
+    float: left;
+}
+
+main>section>div.top {
+    width: 25%;
+    float: left;
+
+}
+
+main>section>div>footer {
+    width: 50%;
+}
+
+main>section>div>footer>div {
+    width: 50%;
+}
+
+.q {
+    background-color: yellow;
+    padding: 50px;
+    text-align: center;
+}
+
+.q1 {
+    width: 50%;
+    padding: 25px;
+    
+}
+.q2{
+    background-color: aqua;
+}
+.q3{
+    background-color: black;
+}
+.top{
+
+}
+.w1{
+  background-color: blue;
+  padding: 25px;
+}
+.w2{
+    background-color: brown;
+    padding: 25px;
+}
+.w3{
+    background-color: blueviolet;
+    padding: 25px;
+}
+.
