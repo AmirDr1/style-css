@@ -1,0 +1,30 @@
+*{
+   direction: rtl;
+   font-family: Vazirmatn FD ,'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+ 
+}
+#a1{
+   
+   border: 10px dotted green; 
+   border-radius: 50% ; 
+   width: 150px;
+   height: 150px;   
+   text-align: center;
+vertical-align: middle;
+background-color: blue;
+}
+h2{
+   color: red;
+   
+}
+ 
+
+#a2{
+   background-image: url(images/images.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+
